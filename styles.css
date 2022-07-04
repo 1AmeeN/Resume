@@ -1,0 +1,147 @@
+
+body{
+background-image:conic-gradient(#bfa58e 180deg, #eeeeee 180deg);
+min-width:auto;
+min-height: auto;
+margin:50px;
+}
+.diva{
+  background: #f2ede9;
+  min-height:120px;
+  min-width: 100%;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px -10px 10px;
+  display: inline;
+}
+.diva h1{
+color:black;
+font-size:35px;
+font-family: "Arima",cursive;
+}
+.diva h2{
+  color:black;
+  font-size:25px;
+  font-family: "Arima",cursive;
+
+
+}
+.divb{
+background: #ffffff;
+min-width: auto;
+min-height:500px;
+padding: 15px;
+box-shadow: -10px 10px 10px;
+
+}
+.divc{
+background: #bfa58e;
+min-width: auto;
+min-height:500px;
+box-shadow: 10px 10px 10px;
+padding:15px;
+}
+.divci{
+background: #bfa58e;
+min-width: 420px;
+min-height:500px;
+box-shadow: -10px 10px 10px;
+padding:15px;
+margin-left: 15px;
+}
+.divbi{
+background: #ffffff;
+min-width: 435px;
+min-height:500px;
+padding: 15px;
+box-shadow: 10px 10px 10px;
+margin-left:-8px; 
+}
+
+.divb img{
+width:300px;
+height:auto;
+
+
+}
+.divc h2{
+font-family: "Arima",cursive;
+
+
+}
+.divc p{
+color:grey;
+font-family:"Arima",cursive;
+}
+.pmove{
+margin-left:65%;
+margin-top:1%;
+font-family:"Arima",cursive;
+text-decoration: none;
+display: inline;
+position: relative;
+}
+.pmove1{
+margin-left:75%;
+margin-top:1%;
+font-family:"Arima",cursive;
+text-decoration: none;
+display: inline;
+position:relative;
+}
+.pmove2{
+margin-left:85%;
+margin-top:1%;
+font-family:"Arima",cursive;
+text-decoration: none;
+display: inline;
+position: relative;
+}
+.wimg{
+width:200px;
+height: auto;
+margin:20px;
+display:inline;
+transition: transform .2s;
+}
+.diva1{
+
+  background: #f2ede9;
+  min-height:100px;
+  min-width: 100%;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 10px -10px 10px;
+  display: inline;
+
+}
+p{
+  color:#180e30;
+  font-family:"Arima",cursive;
+
+
+}
+.divc p{
+  color:#d7dbd0;
+  font-family:"Arima",cursive;
+
+
+}
+h1{
+  color:black;
+  font-size:35px;
+  font-family: "Arima",cursive;
+
+}
+h2{
+  color:black;
+  font-size:35px;
+  font-family: "Arima",cursive;
+
+}
+.wimg:hover{
+
+transform: scale(4);
+margin:20px;
+
+}
